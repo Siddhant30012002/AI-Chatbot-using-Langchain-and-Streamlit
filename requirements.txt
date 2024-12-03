@@ -1,0 +1,5 @@
+langchain
+HuggingFace-Hub
+pandas
+numpy
+scikit-learn
